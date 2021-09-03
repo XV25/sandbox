@@ -1,0 +1,3 @@
+[submodule "Minima"]
+	path = Minima
+	url = https://github.com/XV25/Minima.git
